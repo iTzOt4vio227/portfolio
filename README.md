@@ -14,7 +14,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Otávio Heguedusch
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
+### Linkedin: https://www.linkedin.com/otavioheguedusch
